@@ -1,0 +1,39 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Generate Stats
+        run: |
+          # Count total commits
+          TOTAL_COMMITS=$(git rev-list --all --count)
+          
+          # Get current date
+          CURRENT_DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
+          
+          # Update README with stats
+          sed -i "s/^**Last update:.*$/Last update: $CURRENT_DATE/" README.md
+          
+          echo "Stats updated successfully"
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update profile stats [skip ci]"
+          git push

@@ -117,6 +117,36 @@ HTML • CSS • Git • GitHub Pages
 
 ---
 
+## � Moore About Me
+
+<p align="center">
+  <a href="./PROJECTS.md"><img src="https://img.shields.io/badge/📁_Detailed_Projects-00eaff?style=for-the-badge" /></a>
+  <a href="./SKILLS.md"><img src="https://img.shields.io/badge/🛠️_Technical_Skills-00eaff?style=for-the-badge" /></a>
+  <a href="./QUICK_LINKS.md"><img src="https://img.shields.io/badge/🔗_Quick_Links-00eaff?style=for-the-badge" /></a>
+  <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/🤝_Contributing-00eaff?style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://technosaran.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/technosaran"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=technosaran&color=00eaff&style=flat-square&label=Profile+Views" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&section=footer&text=%22Build%20Fast.%20Automate%20Everything.%20Stay%20Future-Proof.%22&fontSize=20&fontColor=00eaff&animation=fadeIn" />
 </p>
+
+---
+
+**Last update:** 2025-11-19 00:00 UTC
