@@ -1,75 +1,122 @@
-# Hi, I'm Saran (technosaran) 👋
+<!-- Futuristic Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=technosaran&fontSize=50&fontColor=00eaff&animation=fadeIn" />
+</p>
 
-I'm a B.Tech student specializing in AI & ML at Panimalar Engineering College. I build practical ML systems, automation workflows, and trading tools — focused on real problem-solving and clean engineering.
+<h3 align="center">AI & ML Developer • Automation Engineer • Algo Trading Architect • Futuristic Technologist</h3>
 
----
-
-## 🔭 Current focus
-
-- Building **Smart Crop Doctor** — plant disease detection + yield prediction (ML + CV).
-- Developing an advanced **MT5 Expert Advisor (MQL5)** with price-action logic and smart risk management.
-- Automating workflows with **n8n** and building reliable Gmail automation integrations.
-
----
-
-## 🛠️ Tech stack
-
-**Languages:** Java · Python · SQL · JavaScript · MQL5
-
-**Tools / Frameworks:** PyTorch / TensorFlow · scikit-learn · OpenCV · n8n · GitHub Actions · TradingView (Pine Script)
-
-**Web / Dev:** HTML · CSS · React (basic) · GitHub Pages
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Active-blue" />
+  <img src="https://img.shields.io/badge/Java-Backend%20Developer-orange" />
+  <img src="https://img.shields.io/badge/Automation-n8n-brightgreen" />
+  <img src="https://img.shields.io/badge/Algo%20Trading-MQL5%20%7C%20PineScript-yellow" />
+  <img src="https://img.shields.io/badge/Futuristic%20Tech%20Builder-Active-purple" />
+</p>
 
 ---
 
-## ⭐ Highlight Projects
+## 🔥 Who I Am  
+Yo, I’m **Saran** — the guy who loves mixing **AI**, **automation**, **clean engineering**, and **algorithmic intelligence** into actual working systems.  
+I don’t believe in “just finishing assignments.” I build things that look futuristic and work like modern tech is supposed to.
 
-### Smart Crop Doctor
-**AI/ML** — Image-based plant disease detection + yield prediction. Includes dataset pipeline, augmentation, and an explainability module (Grad-CAM).
+I’m all about:
+- AI that solves real-world problems  
+- Automation that removes human effort  
+- Trading algorithms that think smarter  
+- Clean, scalable engineering  
+- UI/UX that feels like it came from the future  
 
-Repo: `your-repo-of-smart-crop-doctor` • Demo / Notebook inside.
-
-### Algo Trading Bot (MT5 EA)
-**Trading / MQL5** — Price-action strategy with candlestick pattern detection, support/resistance logic, and dynamic risk management. Backtesting + live deployment scripts included.
-
-Repo: `your-mt5-ea-repo`
-
-### Advanced PA Signals (TradingView Pine Script)
-**Pine Script** — Engulfing, pin bars, EMA trend filter, volume confirmation and ATR stop-loss levels. Clean indicator with configurable filters.
-
-Repo: `your-pine-script-repo`
-
-### Portfolio (3D background)
-**Web** — Minimal, modern portfolio site with a dynamic 3D background that visualizes neural networks and AI themes. Hosted on GitHub Pages.
-
-Live: `https://technosaran.github.io/portfolio` (or your site link)
+If it’s modern, fast, automated, or intelligent — I’m probably building it.
 
 ---
 
-## 📈 GitHub Stats & Activity
+## ⚡ Highlight Projects (My Best Work)
 
-![Saran's GitHub stats](https://github-readme-stats.vercel.app/api?username=technosaran&show_icons=true&count_private=true&theme=default)
+### 🌱 **Smart Crop Doctor — AI Agriculture System**
+A full AI product for farmers:  
+✔ Plant disease detection  
+✔ Yield prediction  
+✔ Grad-CAM explainability  
+✔ Optimized inference pipeline  
+✔ Real-world use case ready  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technosaran&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=technosaran&theme=default)
-
----
-
-## 🔗 Connect
-
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin)
-- Portfolio: https://technosaran.github.io/portfolio
-- Email: your.email@example.com
+**Stack:** Python, ML, CNN, OpenCV, TensorFlow  
 
 ---
 
-## 🚀 Roadmap
+### 📈 **Advanced MT5 Expert Advisor (Ultimate Price Action EA)**
+Not a basic EA —  
+A full-blown algo trading engine:  
+✔ Candlestick pattern recognition  
+✔ Support/Resistance logic  
+✔ EMA + Trend filters  
+✔ ATR SL/TP engine  
+✔ Dynamic risk management  
+✔ Backtest-ready and scalable  
 
-- Improve the MT5 EA with live risk management and position-sizing algorithm.
-- Productionize Smart Crop Doctor for field testing and mobile inference.
-- Contribute to open-source automation integrations using n8n.
+**Stack:** MQL5, Price Action, Risk Engine Logic  
 
 ---
 
-Last update: 2025-11-19 00:00 UTC
+### 📊 **Advanced PA Signals — TradingView Indicator**
+A Pine Script indicator that ACTUALLY filters noise:  
+✔ Engulfing detection  
+✔ Pin Bar detection  
+✔ Volume confirmation  
+✔ ATR-based risk model  
+✔ Structure filters  
+✔ Clean and minimal visuals  
+
+---
+
+### 🌀 **Futuristic Portfolio Website (3D Neural Network Theme)**
+My personal portfolio:  
+✔ Animated AI-inspired 3D background  
+✔ Neural-like visualizations  
+✔ Minimal & modern  
+✔ Responsive  
+✔ Hosted cleanly on GitHub Pages  
+
+---
+
+## 🧠 Tech Stack
+
+### **Languages**
+Java • Python • SQL • JavaScript • MQL5 • Pine Script
+
+### **Frameworks & Tools**
+PyTorch • TensorFlow • scikit-learn • OpenCV
+
+### **Automation**
+n8n • REST APIs • Webhooks • GitHub Actions
+
+### **Frontend / Dev**
+HTML • CSS • Git • GitHub Pages  
+
+---
+
+## 🚀 Futuristic GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=technosaran&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=technosaran&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technosaran&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Roadmap (The Future I’m Building)
+- Deploying Smart Crop Doctor as a real SaaS  
+- Building AI-powered automation hubs  
+- Creating next-gen MQL5 bots with adaptive intelligence  
+- Designing cleaner, future-themed interfaces  
+- Contributing to open-source automation modules  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&section=footer&text=%22Build%20Fast.%20Automate%20Everything.%20Stay%20Future-Proof.%22&fontSize=20&fontColor=00eaff&animation=fadeIn" />
+</p>
