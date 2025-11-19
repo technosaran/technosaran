@@ -1,0 +1,75 @@
+name: Advanced Profile Automation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches: [main]
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Generate Statistics
+        run: |
+          # Get current timestamp
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          
+          # Count total commits
+          TOTAL_COMMITS=$(git rev-list --all --count)
+          
+          # Count files
+          TOTAL_FILES=$(find . -type f ! -path "./.git/*" | wc -l)
+          
+          # Get last commit date
+          LAST_COMMIT=$(git log -1 --format=%cd --date=format:'%Y-%m-%d')
+          
+          echo "📊 Profile Statistics:"
+          echo "Timestamp: $TIMESTAMP"
+          echo "Total Commits: $TOTAL_COMMITS"
+          echo "Total Files: $TOTAL_FILES"
+          echo "Last Commit: $LAST_COMMIT"
+          
+          # Update README timestamp
+          sed -i "s/\*\*Last update:\*\* .*/\*\*Last update:\*\* $TIMESTAMP | \*\*Auto-updated daily\*\* ⚡/" README.md
+          
+      - name: Check for Changes
+        id: check_changes
+        run: |
+          if git diff --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and Push Changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🤖 Auto-update: Profile stats refreshed [skip ci]"
+          git push
+      
+      - name: Create Summary
+        run: |
+          echo "## 🎉 Profile Update Complete!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Profile statistics updated successfully" >> $GITHUB_STEP_SUMMARY
+          echo "📅 Timestamp: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $GITHUB_STEP_SUMMARY
+          echo "🔄 Next update: In 24 hours" >> $GITHUB_STEP_SUMMARY
