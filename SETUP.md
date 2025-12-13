@@ -9,17 +9,32 @@ This document explains how this GitHub profile is structured and how to maintain
 ```
 technosaran/
 ├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md            # Bug report template
+│   │   ├── feature_request.md       # Feature request template
+│   │   ├── question.md              # Question template
+│   │   └── config.yml               # Template configuration
 │   ├── workflows/
-│   │   ├── update-readme.yml      # Daily timestamp updates
-│   │   └── profile-stats.yml      # Stats refresh every 6 hours
-│   └── FUNDING.yml                # Sponsorship options
-├── README.md                      # Main profile page
-├── PROJECTS.md                    # Detailed project descriptions
-├── SKILLS.md                      # Technical skills breakdown
-├── CONTRIBUTING.md                # Contribution guidelines
-├── CODE_OF_CONDUCT.md            # Community standards
-├── SETUP.md                       # This file
-└── .gitignore                     # Git ignore rules
+│   │   ├── update-readme.yml        # Daily timestamp updates
+│   │   ├── profile-stats.yml        # Stats refresh every 6 hours
+│   │   ├── advanced-automation.yml  # Comprehensive automation
+│   │   └── snake.yml                # Snake animation generator
+│   ├── FUNDING.yml                  # Sponsorship options
+│   └── PULL_REQUEST_TEMPLATE.md     # PR template
+├── README.md                        # Main profile page
+├── PROJECTS.md                      # Detailed project descriptions
+├── SKILLS.md                        # Technical skills breakdown
+├── QUICK_LINKS.md                   # Fast navigation hub
+├── CONTRIBUTING.md                  # Contribution guidelines
+├── CODE_OF_CONDUCT.md              # Community standards
+├── SECURITY.md                      # Security policy
+├── SETUP.md                         # This file
+├── BADGES_REFERENCE.md             # Badge customization
+├── VISUAL_GUIDE.md                  # Visual elements guide
+├── ENHANCEMENTS_SUMMARY.md         # All improvements summary
+├── AUTOMATION_GUIDE.md             # Automation documentation
+├── LICENSE                          # MIT License
+└── .gitignore                       # Git ignore rules
 ```
 
 ---
@@ -36,8 +51,19 @@ technosaran/
 **Frequency:** Every 6 hours  
 **Purpose:** Refreshes profile statistics
 
+### 3. Advanced Profile Automation
+**File:** `.github/workflows/advanced-automation.yml`  
+**Frequency:** Daily + Every 6 hours + On push  
+**Purpose:** Comprehensive profile automation with stats
+
+### 4. Snake Contribution Animation
+**File:** `.github/workflows/snake.yml`  
+**Frequency:** Daily at midnight + On push  
+**Purpose:** Generates animated snake eating your contributions  
+**Output:** SVGs in the `output` branch
+
 ### Manual Trigger
-Both workflows can be triggered manually:
+All workflows can be triggered manually:
 1. Go to Actions tab
 2. Select the workflow
 3. Click "Run workflow"
