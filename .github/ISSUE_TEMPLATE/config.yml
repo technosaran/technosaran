@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/technosaran/technosaran/discussions
+    about: Ask questions and share ideas in GitHub Discussions
+  - name: 📧 Email
+    url: mailto:your.email@example.com
+    about: For private inquiries or collaboration requests
+  - name: 💼 LinkedIn
+    url: https://www.linkedin.com/in/your-linkedin
+    about: Connect with me professionally

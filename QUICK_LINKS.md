@@ -48,7 +48,12 @@ Fast access to all my projects, profiles, and resources.
 - [Detailed Projects](./PROJECTS.md) — In-depth project descriptions
 - [Technical Skills](./SKILLS.md) — Complete skills breakdown
 - [Contributing Guide](./CONTRIBUTING.md) — How to contribute
+- [Code of Conduct](./CODE_OF_CONDUCT.md) — Community standards
+- [Security Policy](./SECURITY.md) — Vulnerability reporting
 - [Setup Guide](./SETUP.md) — Profile maintenance guide
+- [Visual Guide](./VISUAL_GUIDE.md) — Visual customization
+- [Badges Reference](./BADGES_REFERENCE.md) — Badge examples
+- [Enhancements](./ENHANCEMENTS_SUMMARY.md) — All improvements
 
 ---
 

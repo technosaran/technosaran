@@ -41,6 +41,28 @@ If it's modern, fast, automated, or intelligent — I'm probably building it.
 
 ---
 
+## 🎯 Currently Working On
+
+<div align="center">
+
+| 🔭 Active Focus | 📅 Status |
+|:---------------|:----------|
+| 🌱 **Smart Crop Doctor** - Production deployment & optimization | 🟢 In Progress |
+| 📈 **MT5 Expert Advisor** - Adding adaptive intelligence features | 🟡 Development |
+| 🤖 **n8n Automation Hub** - Building AI-powered workflows | 🟢 Active |
+| 🎨 **Portfolio Redesign** - Next-gen neural network animations | 🔵 Planning |
+
+</div>
+
+<div align="center">
+  
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+</div>
+
+---
+
 ## ⚡ Highlight Projects (My Best Work)
 
 <table>
@@ -193,6 +215,17 @@ My personal portfolio:
   
 </div>
 
+<div align="center">
+  
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/technosaran/technosaran/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/technosaran/technosaran/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/technosaran/technosaran/output/github-contribution-grid-snake.svg" />
+  </picture>
+  
+</div>
+
 ---
 
 ## 🧩 Roadmap (The Future I'm Building)
@@ -218,9 +251,9 @@ graph LR
 
 <div align="center">
 
-| 📁 [**Detailed Projects**](./PROJECTS.md) | 🛠️ [**Technical Skills**](./SKILLS.md) | 🔗 [**Quick Links**](./QUICK_LINKS.md) | 🤝 [**Contributing**](./CONTRIBUTING.md) |
-|:---:|:---:|:---:|:---:|
-| In-depth project descriptions | Complete skills breakdown | Fast navigation hub | Contribution guidelines |
+| 📁 [**Detailed Projects**](./PROJECTS.md) | 🛠️ [**Technical Skills**](./SKILLS.md) | 🔗 [**Quick Links**](./QUICK_LINKS.md) | 🤝 [**Contributing**](./CONTRIBUTING.md) | 🔒 [**Security**](./SECURITY.md) |
+|:---:|:---:|:---:|:---:|:---:|
+| In-depth project descriptions | Complete skills breakdown | Fast navigation hub | Contribution guidelines | Security policy |
 
 </div>
 
@@ -229,6 +262,7 @@ graph LR
   <a href="./SKILLS.md"><img src="https://img.shields.io/badge/🛠️_Technical_Skills-00eaff?style=for-the-badge&logo=stackshare&logoColor=white" /></a>
   <a href="./QUICK_LINKS.md"><img src="https://img.shields.io/badge/🔗_Quick_Links-00eaff?style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/🤝_Contributing-00eaff?style=for-the-badge&logo=handshake&logoColor=white" /></a>
+  <a href="./SECURITY.md"><img src="https://img.shields.io/badge/🔒_Security-00eaff?style=for-the-badge&logo=shield&logoColor=white" /></a>
 </p>
 
 ---
@@ -245,6 +279,26 @@ graph LR
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/technosaran"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<br/>
+
+### 💡 Fun Facts
+
+```javascript
+const technosaran = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Java", "JavaScript", "MQL5", "Pine Script"],
+    askMeAbout: ["AI/ML", "Trading Bots", "Automation", "Tech Architecture"],
+    technologies: {
+        ai_ml: ["PyTorch", "TensorFlow", "OpenCV", "scikit-learn"],
+        trading: ["MetaTrader 5", "TradingView", "Price Action"],
+        automation: ["n8n", "GitHub Actions", "REST APIs"],
+        frontEnd: ["HTML", "CSS", "JavaScript", "Three.js"]
+    },
+    currentFocus: "Building AI-powered trading systems",
+    funFact: "I debug by talking to rubber ducks 🦆"
+};
+```
 
 </div>
 
