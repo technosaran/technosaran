@@ -255,6 +255,10 @@ graph LR
     style D fill:#C084FC
     style E fill:#6366F1
     style F fill:#818CF8
+    style G fill:#7C3AED
+    style H fill:#A78BFA
+    style I fill:#8B5CF6
+    style J fill:#C084FC
 ```
 
 ### 🌌 Mission Phases:
