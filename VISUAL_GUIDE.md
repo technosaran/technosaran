@@ -76,7 +76,7 @@ A complete visual reference for your quantum GitHub profile with space-grade exa
 **Quantum Logos:**
 - `atom` - Quantum physics
 - `rocket` - Space tech
-- `moleculer` - Physics/chemistry
+- `moleculer` - Microservices/distributed systems (note: this is the correct logo name, not "molecular")
 - `tensorflow` - AI/ML
 - `dependabot` - Automation
 
@@ -142,7 +142,10 @@ A complete visual reference for your quantum GitHub profile with space-grade exa
 - `ring_color=8B5CF6` - Deep purple ring
 
 **Quantum Theme Recommendation:**
-Use `radical` theme as base, then override with quantum purple colors for perfect consistency.
+Use `radical` theme as base, then override with quantum purple colors for perfect consistency:
+```
+theme=radical&title_color=A78BFA&icon_color=C084FC&text_color=e9d5ff&ring_color=8B5CF6
+```
 
 #### Top Languages Card
 ```markdown

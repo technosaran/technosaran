@@ -77,7 +77,7 @@ A physics-based signal intelligence system using quantum detection principles, w
 - 🌠 **Wave-Particle Volume Analysis** — Volume confirmation using quantum duality principles
 - 🔮 **Entropy-Based Risk Modeling** — Advanced ATR++ with uncertainty quantification
 - 🧬 **Harmonic Structure Filters** — Entry filters using resonance and wave mechanics
-- 🛸 **Zero-Latency Architecture** — Non-repainting, real-time signal processing
+- 🛸 **Zero-Lag Architecture** — Non-repainting, real-time signal processing
 
 ### 🔬 Tech Arsenal
 - **Language:** Pine Script v5
