@@ -1,0 +1,27 @@
+# 🧬 Quantum Code Ownership Configuration
+# This file defines who is responsible for code review in different areas
+
+# Default owner for everything in the repository
+* @technosaran
+
+# Documentation files
+*.md @technosaran
+/docs/ @technosaran
+
+# GitHub configuration
+/.github/ @technosaran
+
+# Workflow files (automation)
+/.github/workflows/ @technosaran
+
+# Issue templates
+/.github/ISSUE_TEMPLATE/ @technosaran
+
+# Security-related files
+SECURITY.md @technosaran
+LICENSE @technosaran
+
+# Core profile files
+README.md @technosaran
+PROJECTS.md @technosaran
+SKILLS.md @technosaran
