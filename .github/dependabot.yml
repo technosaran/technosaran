@@ -1,0 +1,22 @@
+# 🔄 Dependabot Configuration
+# Automated dependency updates for security and maintenance
+# 📝 Note: Customize timezone to match your local time (e.g., "UTC", "America/New_York")
+
+version: 2
+updates:
+  # GitHub Actions updates
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+      timezone: "Asia/Kolkata"  # Change to your preferred timezone
+    commit-message:
+      prefix: "⬆️ chore(deps):"
+    labels:
+      - "dependencies"
+      - "automation"
+    reviewers:
+      - "technosaran"
+    open-pull-requests-limit: 5

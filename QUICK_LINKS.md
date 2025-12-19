@@ -54,6 +54,7 @@ Fast quantum access to all neural projects, cosmic profiles, and space-grade res
 - 🌠 [Visual Quantum Guide](./VISUAL_GUIDE.md) — Cosmic customization
 - 🚀 [Badges Arsenal](./BADGES_REFERENCE.md) — Badge quantum examples
 - ⚡ [Enhancements Log](./ENHANCEMENTS_SUMMARY.md) — Neural improvements
+- 🤖 [Automation Guide](./AUTOMATION_GUIDE.md) — GitHub Actions & workflows
 
 ---
 

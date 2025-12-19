@@ -19,6 +19,8 @@ technosaran/
 │   │   ├── profile-stats.yml        # Stats refresh every 6 hours
 │   │   ├── advanced-automation.yml  # Comprehensive automation
 │   │   └── snake.yml                # Snake animation generator
+│   ├── CODEOWNERS                   # Code ownership configuration
+│   ├── dependabot.yml               # Automated dependency updates
 │   ├── FUNDING.yml                  # Sponsorship options
 │   └── PULL_REQUEST_TEMPLATE.md     # PR template
 ├── README.md                        # Main profile page
