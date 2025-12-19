@@ -1,5 +1,6 @@
 # 🔄 Dependabot Configuration
 # Automated dependency updates for security and maintenance
+# 📝 Note: Customize timezone to match your local time (e.g., "UTC", "America/New_York")
 
 version: 2
 updates:
@@ -10,7 +11,7 @@ updates:
       interval: "weekly"
       day: "monday"
       time: "09:00"
-      timezone: "Asia/Kolkata"
+      timezone: "Asia/Kolkata"  # Change to your preferred timezone
     commit-message:
       prefix: "⬆️ chore(deps):"
     labels:

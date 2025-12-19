@@ -178,7 +178,7 @@ outputs: |
 Update the commit message in workflow files:
 
 ```yaml
-git commit -m "�� Quantum Update: Profile synchronized [skip ci]"
+git commit -m "🤖 Quantum Update: Profile synchronized [skip ci]"
 ```
 
 **Emoji Conventions:**

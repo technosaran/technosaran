@@ -213,8 +213,8 @@ Contributors will be:
 
 Questions? Reach out via:
 - 💬 GitHub Issues (preferred)
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/your-linkedin)
+- 📧 Email: *[Update with your email]*
+- 💼 LinkedIn: *[Update with your LinkedIn profile]*
 
 ---
 
