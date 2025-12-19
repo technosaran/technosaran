@@ -19,7 +19,7 @@ A complete visual reference for your quantum GitHub profile with space-grade exa
 - Subtitle with quantum descriptors
 
 **Quantum Customization:**
-- Change `customColorList`: 12,14,24,30 (purple/blue cosmos) vs original 6,11,20 (cyan)
+- Change `customColorList`: 12,14,24,30 (purple/blue cosmos for quantum theme)
 - Change `type`: waving, wave, rect, slice, shark, cylinder, venom, soft, rounded
 - Change `animation`: fadeIn, scaleIn, blink, twinkling (twinkling = quantum effect)
 - Change `height`: Any number (recommended: 180-250 for quantum impact)
