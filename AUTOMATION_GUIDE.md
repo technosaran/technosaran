@@ -1,25 +1,25 @@
-# 🤖 Quantum Automation Guide
+# 🤖 Automation Guide
 
-A comprehensive guide to the neural automation systems powering this quantum GitHub profile.
+A guide to the automation systems powering this GitHub profile.
 
 ---
 
-## 🌌 Automation Overview
+## 📋 Automation Overview
 
-This profile uses quantum-grade GitHub Actions workflows to maintain a self-evolving, always-fresh presence. The automation matrix handles everything from stats updates to contribution visualizations.
+This profile uses GitHub Actions workflows to maintain an up-to-date presence. The automation handles stats updates and contribution visualizations.
 
-### ⚛️ Active Workflows
+### 🔄 Active Workflows
 
-| 🛸 Workflow | 📅 Schedule | 🔬 Purpose | 📁 File |
-|:-----------|:-----------|:---------|:-------|
-| Advanced Automation | Daily + Every 6h | Comprehensive stats & timestamp updates | `advanced-automation.yml` |
-| Profile Stats | Every 6 hours | Statistics refresh & cache updates | `profile-stats.yml` |
-| Snake Animation | Daily at midnight | Contribution grid snake generator | `snake.yml` |
+| Workflow | Schedule | Purpose | File |
+|:---------|:---------|:--------|:-----|
+| Advanced Automation | Daily + Every 6h | Stats & timestamp updates | `advanced-automation.yml` |
+| Profile Stats | Every 6 hours | Statistics refresh | `profile-stats.yml` |
+| Snake Animation | Daily at midnight | Contribution grid animation | `snake.yml` |
 | README Update | Daily at midnight | Timestamp refresh | `update-readme.yml` |
 
 ---
 
-## 🔬 Workflow Details
+## 🔧 Workflow Details
 
 ### 1. Advanced Profile Automation
 
@@ -31,9 +31,9 @@ This profile uses quantum-grade GitHub Actions workflows to maintain a self-evol
 - 🚀 On push to main branch
 - 🎯 Manual dispatch
 
-**Neural Functions:**
-- Generates repository statistics (commits, files, activity)
-- Updates README timestamp with quantum precision
+**Functions:**
+- Generates repository statistics
+- Updates README timestamp
 - Commits changes with descriptive messages
 - Creates workflow run summary
 
