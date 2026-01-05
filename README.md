@@ -25,7 +25,7 @@ Python • Java • JavaScript/TypeScript • C++ • SQL • MQL5 • Pine Scri
 PyTorch • TensorFlow • Keras • scikit-learn • OpenCV • Pandas • NumPy
 
 ### Frameworks & Tools
-React • Node.js • Three.js • FastAPI • Docker • Git • GitHub Actions • Jupyter
+React • Node.js • Three.js • FastAPI • Git • Jupyter
 
 ### Databases
 MySQL • PostgreSQL
@@ -115,6 +115,8 @@ Panimalar Engineering College
 **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
 **Portfolio:** [technosaran.github.io/portfolio](https://technosaran.github.io/portfolio)  
 **Email:** your.email@example.com
+
+<!-- Note: Update the LinkedIn URL and Email address with your actual contact information -->
 
 ---
 
