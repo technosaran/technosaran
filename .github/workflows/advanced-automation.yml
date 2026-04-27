@@ -2,7 +2,6 @@ name: Advanced Profile Automation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
     - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:  # Manual trigger
   push:
@@ -19,11 +18,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
       
       - name: Generate Statistics
         run: |
@@ -46,7 +40,7 @@ jobs:
           echo "Last Commit: $LAST_COMMIT"
           
           # Update README timestamp
-          sed -i "s/\*\*Last update:\*\* .*/\*\*Last update:\*\* $TIMESTAMP | \*\*Auto-updated daily\*\* ⚡/" README.md
+          sed -i "s/\*\*Last updated:\*\* .*$/\*\*Last updated:\*\* $TIMESTAMP/" README.md
           
       - name: Check for Changes
         id: check_changes

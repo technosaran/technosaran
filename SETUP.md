@@ -110,7 +110,7 @@ Modify colors and themes in the badge URLs.
 
 ### GitHub Streak Stats
 ```markdown
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=technosaran&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=technosaran&theme=tokyonight)
 ```
 
 ### Profile Views Counter
