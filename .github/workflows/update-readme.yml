@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -15,7 +17,7 @@ jobs:
       - name: Update timestamp
         run: |
           NOW=$(date -u +"%Y-%m-%d %H:%M UTC")
-          sed -i "s/^Last update:.*$/Last update: $NOW/" README.md
+          sed -i "s/\*\*Last updated:\*\* .*$/\*\*Last updated:\*\* $NOW/" README.md
           
       - name: Commit & push
         run: |

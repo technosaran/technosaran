@@ -123,7 +123,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=technosaran&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/technosaran)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=technosaran&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/technosaran)
 
 </div>
 
@@ -170,6 +170,20 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/technosaran/technosaran/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/technosaran/technosaran/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/technosaran/technosaran/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## 📚 Currently Learning & Building
 
 - 🔭 **Distributed Systems** — Raft consensus, consistent hashing, fault-tolerant design
@@ -193,3 +207,9 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<div align="center">
+
+**Last updated:** YYYY-MM-DD HH:MM UTC
+
+</div>
