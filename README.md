@@ -71,7 +71,7 @@
 - Achieved production-level performance optimized for **edge/mobile devices** with ONNX export
 - Tech: `PyTorch` · `TensorFlow` · `OpenCV` · `FastAPI` · `Python`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran)
 
 ---
 
@@ -83,7 +83,7 @@
 - Applied **market phase classification** algorithms to adapt strategy based on real-time market state
 - Tech: `MQL5` · `C++` · `MetaTrader 5` · `Statistical Analysis`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran)
 
 ---
 
@@ -96,7 +96,7 @@
 - Tech: `Three.js` · `WebGL` · `GLSL` · `HTML5/CSS3` · `JavaScript ES6+`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://technosaran.github.io/portfolio)
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran)
 
 ---
 
@@ -108,7 +108,7 @@
 - Containerized with Docker for portable, cloud-native deployment
 - Tech: `n8n` · `Node.js` · `REST/GraphQL` · `Docker`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran)
 
 ---
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=technosaran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=technosaran&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technosaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=8"/>
 
 </div>

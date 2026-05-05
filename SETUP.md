@@ -43,22 +43,12 @@ technosaran/
 
 ## 🔧 GitHub Actions Workflows
 
-### 1. Update README Timestamp
-**File:** `.github/workflows/update-readme.yml`  
-**Frequency:** Daily at 00:00 UTC  
-**Purpose:** Keeps the "Last update" timestamp current
-
-### 2. Profile Stats Update
-**File:** `.github/workflows/profile-stats.yml`  
-**Frequency:** Every 6 hours  
-**Purpose:** Refreshes profile statistics
-
-### 3. Advanced Profile Automation
+### 1. Advanced Profile Automation
 **File:** `.github/workflows/advanced-automation.yml`  
-**Frequency:** Daily + Every 6 hours + On push  
-**Purpose:** Comprehensive profile automation with stats
+**Frequency:** Every 6 hours + On push to main  
+**Purpose:** Updates timestamp, generates statistics, commits changes
 
-### 4. Snake Contribution Animation
+### 2. Snake Contribution Animation
 **File:** `.github/workflows/snake.yml`  
 **Frequency:** Daily at midnight + On push  
 **Purpose:** Generates animated snake eating your contributions  
