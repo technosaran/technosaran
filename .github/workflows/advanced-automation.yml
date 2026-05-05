@@ -7,6 +7,10 @@ on:
   push:
     branches: [main]
 
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
 jobs:
   update-profile:
     runs-on: ubuntu-latest
@@ -58,6 +62,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add README.md
           git commit -m "🤖 Auto-update: Profile stats refreshed [skip ci]"
+          git pull --rebase origin main
           git push
       
       - name: Create Summary

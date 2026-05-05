@@ -20,10 +20,8 @@ Complete list of improvements made to your GitHub profile.
 11. **ENHANCEMENTS_SUMMARY.md** - This file
 
 ### Automation
-12. **.github/workflows/update-readme.yml** - Daily timestamp updates
-13. **.github/workflows/profile-stats.yml** - Stats refresh every 6 hours
-14. **.github/workflows/advanced-automation.yml** - Comprehensive profile automation
-15. **.github/workflows/snake.yml** - Contribution snake animation generator
+12. **.github/workflows/advanced-automation.yml** - Profile automation (stats & timestamp, every 6h + on push)
+13. **.github/workflows/snake.yml** - Contribution snake animation generator
 16. **.github/FUNDING.yml** - Sponsorship configuration
 
 ### Templates
@@ -63,25 +61,13 @@ Complete list of improvements made to your GitHub profile.
 
 ### GitHub Actions Workflows
 
-#### 1. Update README Timestamp
-- **Frequency:** Daily at 00:00 UTC
-- **Purpose:** Keeps profile fresh with current date
-- **Trigger:** Automatic + Manual
-- **File:** `.github/workflows/update-readme.yml`
-
-#### 2. Profile Stats Update
-- **Frequency:** Every 6 hours
-- **Purpose:** Refreshes statistics
-- **Trigger:** Automatic + Manual
-- **File:** `.github/workflows/profile-stats.yml`
-
-#### 3. Advanced Profile Automation
-- **Frequency:** Daily + Every 6 hours + On push
-- **Purpose:** Comprehensive profile updates with statistics
+#### 1. Advanced Profile Automation
+- **Frequency:** Every 6 hours + On push
+- **Purpose:** Updates timestamp and generates stats
 - **Trigger:** Automatic + Manual
 - **File:** `.github/workflows/advanced-automation.yml`
 
-#### 4. Snake Contribution Animation
+#### 2. Snake Contribution Animation
 - **Frequency:** Daily at midnight UTC + On push
 - **Purpose:** Generates animated snake eating contributions
 - **Trigger:** Automatic + Manual

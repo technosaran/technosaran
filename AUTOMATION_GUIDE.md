@@ -12,10 +12,8 @@ This profile uses GitHub Actions workflows to maintain an up-to-date presence. T
 
 | Workflow | Schedule | Purpose | File |
 |:---------|:---------|:--------|:-----|
-| Advanced Automation | Daily + Every 6h | Stats & timestamp updates | `advanced-automation.yml` |
-| Profile Stats | Every 6 hours | Statistics refresh | `profile-stats.yml` |
+| Advanced Automation | Every 6h + On push | Stats & timestamp updates | `advanced-automation.yml` |
 | Snake Animation | Daily at midnight | Contribution grid animation | `snake.yml` |
-| README Update | Daily at midnight | Timestamp refresh | `update-readme.yml` |
 
 ---
 
@@ -41,7 +39,6 @@ This profile uses GitHub Actions workflows to maintain an up-to-date presence. T
 # Key configuration
 on:
   schedule:
-    - cron: '0 0 * * *'   # Daily at midnight
     - cron: '0 */6 * * *' # Every 6 hours
   workflow_dispatch: {}   # Manual trigger
   push:
@@ -54,22 +51,7 @@ on:
 
 ---
 
-### 2. Profile Stats Update
-
-**File:** `.github/workflows/profile-stats.yml`
-
-**Triggers:**
-- ⏰ Every 6 hours
-- 🎯 Manual dispatch
-
-**Neural Functions:**
-- Refreshes GitHub statistics cache
-- Ensures stats cards display current data
-- Triggers external stat services refresh
-
----
-
-### 3. Snake Contribution Animation
+### 2. Snake Contribution Animation
 
 **File:** `.github/workflows/snake.yml`
 
@@ -97,21 +79,6 @@ on:
   <img alt="github-snake" src="https://raw.githubusercontent.com/technosaran/technosaran/output/github-contribution-grid-snake.svg" />
 </picture>
 ```
-
----
-
-### 4. README Timestamp Update
-
-**File:** `.github/workflows/update-readme.yml`
-
-**Triggers:**
-- ⏰ Daily at midnight UTC
-- 🎯 Manual dispatch
-
-**Neural Functions:**
-- Updates the "Last update" timestamp in README
-- Maintains profile freshness indicators
-- Clean commit messages with [skip ci] flag
 
 ---
 
@@ -355,7 +322,7 @@ strategy:
 ### 🌌 Quantum Automation Status
 
 ![Automation](https://img.shields.io/badge/🤖_Automation-Active-8B5CF6?style=for-the-badge&logo=github-actions&logoColor=white)
-![Workflows](https://img.shields.io/badge/⚛️_Workflows-4_Active-A78BFA?style=for-the-badge&logo=clockify&logoColor=white)
+![Workflows](https://img.shields.io/badge/⚛️_Workflows-2_Active-A78BFA?style=for-the-badge&logo=clockify&logoColor=white)
 ![Status](https://img.shields.io/badge/🛸_Status-Self_Evolving-C084FC?style=for-the-badge&logo=dependabot&logoColor=white)
 
 **⚛️ Your profile is now a self-maintaining quantum system!** 🌌
