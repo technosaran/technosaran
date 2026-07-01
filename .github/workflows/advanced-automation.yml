@@ -71,4 +71,4 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "✅ Profile statistics updated successfully" >> $GITHUB_STEP_SUMMARY
           echo "📅 Timestamp: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $GITHUB_STEP_SUMMARY
-          echo "🔄 Next update: In 24 hours" >> $GITHUB_STEP_SUMMARY
+          echo "🔄 Next update: In 6 hours" >> $GITHUB_STEP_SUMMARY
