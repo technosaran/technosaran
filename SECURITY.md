@@ -15,7 +15,7 @@ If you discover a security vulnerability in any of my projects, please report it
 ### How to Report
 
 1. **Do not** create a public GitHub issue for security vulnerabilities
-2. Send an email to: [your.email@example.com](mailto:your.email@example.com)
+2. Send an email to: [iamsaran.ai@gmail.com](mailto:iamsaran.ai@gmail.com)
 3. Include as much detail as possible:
    - Description of the vulnerability
    - Steps to reproduce
@@ -50,7 +50,7 @@ For my projects, I follow these security practices:
 
 ## Contact
 
-For security concerns: [your.email@example.com](mailto:your.email@example.com)
+For security concerns: [iamsaran.ai@gmail.com](mailto:iamsaran.ai@gmail.com)
 
 ---
 

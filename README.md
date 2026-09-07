@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Final-Year+B.Tech+%7C+AI+%26+ML+Specialization;Backend+Systems+%7C+System+Design+%7C+Scalable+APIs;PyTorch+%7C+TensorFlow+%7C+Java+%7C+Python+%7C+TypeScript;Building+production-grade+software+that+scales)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=technosaran&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/technosaran)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saran-r-b2b1a5275/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://technosaran.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iamsaran.ai@gmail.com)
 
 </div>
 
@@ -20,7 +20,6 @@
 - 🎓 **Final-year B.Tech** in **Artificial Intelligence & Machine Learning**
 - 🏗️ Passionate about **backend systems**, **distributed architecture**, and **AI-powered applications**
 - 🧠 Strong in **Data Structures & Algorithms**, **System Design**, and **OOP principles**
-- 🌱 Currently deepening expertise in **distributed systems** and **ML at scale**
 - 🎯 Targeting **Software Engineering roles** at product-first companies and top MNCs
 - ⚡ I believe good engineering is about **clarity, correctness, and long-term maintainability**
 
@@ -71,7 +70,7 @@
 - Achieved production-level performance optimized for **edge/mobile devices** with ONNX export
 - Tech: `PyTorch` · `TensorFlow` · `OpenCV` · `FastAPI` · `Python`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran?tab=repositories)
 
 ---
 
@@ -83,20 +82,7 @@
 - Applied **market phase classification** algorithms to adapt strategy based on real-time market state
 - Tech: `MQL5` · `C++` · `MetaTrader 5` · `Statistical Analysis`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran)
-
----
-
-### 🎨 Interactive 3D Portfolio — GPU-Accelerated WebGL
-> *Three.js · WebGL · GLSL Shaders · JavaScript*
-
-- Built a **real-time 3D particle system** with custom GLSL shaders and physics-based animations
-- Engineered **GPU-accelerated rendering** pipelines using Three.js and vanilla WebGL
-- Fully responsive across devices with smooth 60fps performance
-- Tech: `Three.js` · `WebGL` · `GLSL` · `HTML5/CSS3` · `JavaScript ES6+`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://technosaran.github.io/portfolio)
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran?tab=repositories)
 
 ---
 
@@ -108,7 +94,7 @@
 - Containerized with Docker for portable, cloud-native deployment
 - Tech: `n8n` · `Node.js` · `REST/GraphQL` · `Docker`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/technosaran?tab=repositories)
 
 ---
 
@@ -197,10 +183,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saran-r-b2b1a5275/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://technosaran.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/technosaran)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsaran.ai@gmail.com)
 
 *Open to Software Engineering roles — Full-time · Internships · Collaborations*
 

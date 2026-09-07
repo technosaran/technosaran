@@ -9,35 +9,47 @@ Fast access to all projects, profiles, and resources.
 | Platform | Link | Purpose |
 |----------|------|---------|
 | GitHub | [@technosaran](https://github.com/technosaran) | Code & Projects |
-| LinkedIn | [Your Profile](https://www.linkedin.com/in/your-linkedin) | Professional Network |
+| LinkedIn | [Saran R](https://www.linkedin.com/in/saran-r-b2b1a5275/) | Professional Network |
 | Portfolio | [technosaran.github.io](https://technosaran.github.io/portfolio) | Project Showcase |
-| Email | your.email@example.com | Direct Contact |
+| Email | iamsaran.ai@gmail.com | Direct Contact |
 
 ---
 
 ## 🚀 Projects
 
 ### 🤖 AI & Machine Learning
-- **🌱 Smart Crop Doctor** — [Repository](#) | [Demo](#)
+- **🌱 Smart Crop Doctor** — [Repositories](https://github.com/technosaran?tab=repositories)
   - AI-powered crop disease detection and yield prediction
   - Tech: PyTorch, TensorFlow, OpenCV
 
+- **🔍 Object Detection (Real-time CV)** — [Repository](https://github.com/technosaran/objext-detection-real-time-cv)
+  - Real-time computer vision object detection
+  - Tech: Python, OpenCV
+
+- **📝 Named Entity Recognition (NLP)** — [Repository](https://github.com/technosaran/name-entity-recog-using-nlp)
+  - NLP-based named entity recognition
+  - Tech: Python, NLP
+
+- **🚨 Crisis Intelligence Platform** — [Repository](https://github.com/technosaran/crisis-intelligence-platform)
+  - AI-powered crisis intelligence system
+  - Tech: Python
+
 ### 📊 Algorithmic Trading
-- **📈 Trading Systems** — [Repository](#)
+- **📈 Trading Systems** — [Repositories](https://github.com/technosaran?tab=repositories)
   - Algorithmic trading for MetaTrader 5
   - Tech: MQL5, Technical Analysis
 
-- **📡 TradingView Indicators** — [Repository](#) | [TradingView](#)
+- **📡 TradingView Indicators** — [Repositories](https://github.com/technosaran?tab=repositories)
   - Custom technical indicators
   - Tech: Pine Script v5
 
 ### 🌐 Web Development
-- **🎨 Portfolio Website** — [Live Site](https://technosaran.github.io/portfolio) | [Repository](#)
+- **🎨 Portfolio Website** — [Live Site](https://technosaran.github.io/portfolio) | [Repositories](https://github.com/technosaran?tab=repositories)
   - Interactive 3D portfolio
   - Tech: Three.js, WebGL, HTML/CSS/JS
 
 ### 🔧 Automation
-- **🤖 Automation Tools** — [Repository](#)
+- **🤖 Automation Tools** — [Repositories](https://github.com/technosaran?tab=repositories)
   - Workflow automation systems
   - Tech: n8n, Node.js
 
@@ -86,11 +98,11 @@ MetaTrader 5 • TradingView • GitHub Pages
 
 **For Project Collaboration:**
 - GitHub Issues (preferred)
-- Email: your.email@example.com
+- Email: iamsaran.ai@gmail.com
 
 **For Professional Inquiries:**
-- LinkedIn: [Connect](https://www.linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
+- LinkedIn: [Connect](https://www.linkedin.com/in/saran-r-b2b1a5275/)
+- Email: iamsaran.ai@gmail.com
 
 **For Quick Questions:**
 - GitHub Discussions

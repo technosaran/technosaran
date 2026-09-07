@@ -9,7 +9,7 @@ Detailed information about my key projects and their technical implementations.
 **Status:** 🟢 Production  
 **Type:** AI-Powered Agricultural System  
 **Category:** AI/ML • Computer Vision • Deep Learning  
-**Repository:** [Link to repo]
+**Repository:** [GitHub](https://github.com/technosaran?tab=repositories)
 
 ### Overview
 An AI system for crop disease detection and yield prediction using deep learning and computer vision.
@@ -37,7 +37,7 @@ Production-ready agricultural intelligence system designed for real-world deploy
 **Status:** 🟡 In Development  
 **Type:** Algorithmic Trading System  
 **Category:** Algorithmic Trading • Technical Analysis  
-**Repository:** [Link to repo]
+**Repository:** [GitHub](https://github.com/technosaran?tab=repositories)
 
 ### Overview
 Automated trading system with advanced pattern recognition and risk management for financial markets.
@@ -65,7 +65,7 @@ Extensively backtested across multiple timeframes with adaptive risk management 
 **Status:** 🟢 Live  
 **Type:** Technical Analysis Tools  
 **Category:** Technical Analysis • Signal Processing  
-**Repository:** [Link to repo]
+**Repository:** [GitHub](https://github.com/technosaran?tab=repositories)
 
 ### Overview
 Custom technical indicators for TradingView platform with advanced signal filtering and pattern recognition.
@@ -163,8 +163,8 @@ All projects focus on:
 
 ### Want to Collaborate?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saran-r-b2b1a5275/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsaran.ai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/technosaran)
 
 </div>

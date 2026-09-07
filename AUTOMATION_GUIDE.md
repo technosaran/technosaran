@@ -24,7 +24,6 @@ This profile uses GitHub Actions workflows to maintain an up-to-date presence. T
 **File:** `.github/workflows/advanced-automation.yml`
 
 **Triggers:**
-- ⏰ Daily at midnight UTC
 - ⏰ Every 6 hours
 - 🚀 On push to main branch
 - 🎯 Manual dispatch
@@ -243,7 +242,7 @@ strategy:
 ### Caching Dependencies
 
 ```yaml
-- uses: actions/cache@v3
+- uses: actions/cache@v4
   with:
     path: ~/.npm
     key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}

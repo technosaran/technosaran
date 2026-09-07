@@ -54,7 +54,7 @@ Quick reference for all badges, stats, and visual elements used in the profile.
 
 ### GitHub Streak Stats
 ```markdown
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=technosaran&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=technosaran&theme=tokyonight)
 ```
 
 ### Top Languages

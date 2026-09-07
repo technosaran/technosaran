@@ -213,8 +213,8 @@ Contributors will be:
 
 Questions? Reach out via:
 - 💬 GitHub Issues (preferred)
-- 📧 Email: *[Update with your email]*
-- 💼 LinkedIn: *[Update with your LinkedIn profile]*
+- 📧 Email: iamsaran.ai@gmail.com
+- 💼 LinkedIn: [Saran R](https://www.linkedin.com/in/saran-r-b2b1a5275/)
 
 ---
 

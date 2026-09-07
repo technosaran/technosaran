@@ -22,7 +22,7 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported to: your.email@example.com
+Instances of unacceptable behavior may be reported to: iamsaran.ai@gmail.com
 
 All complaints will be reviewed and investigated promptly and fairly.
 

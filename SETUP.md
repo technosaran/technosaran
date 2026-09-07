@@ -15,8 +15,6 @@ technosaran/
 │   │   ├── question.md              # Question template
 │   │   └── config.yml               # Template configuration
 │   ├── workflows/
-│   │   ├── update-readme.yml        # Daily timestamp updates
-│   │   ├── profile-stats.yml        # Stats refresh every 6 hours
 │   │   ├── advanced-automation.yml  # Comprehensive automation
 │   │   └── snake.yml                # Snake animation generator
 │   ├── CODEOWNERS                   # Code ownership configuration
@@ -66,9 +64,9 @@ All workflows can be triggered manually:
 
 ### Update Contact Information
 
-Edit these placeholders in `README.md`:
-- LinkedIn URL: `https://www.linkedin.com/in/your-linkedin`
-- Email: `your.email@example.com`
+Edit these in `README.md` if you need to update:
+- LinkedIn URL: `https://www.linkedin.com/in/saran-r-b2b1a5275/`
+- Email: `iamsaran.ai@gmail.com`
 - Portfolio: `https://technosaran.github.io/portfolio`
 
 ### Add Project Links
@@ -187,8 +185,8 @@ Visit [shields.io](https://shields.io) to create custom badges:
 
 Questions about this setup?
 - Open an issue in this repo
-- Email: your.email@example.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/your-linkedin)
+- Email: iamsaran.ai@gmail.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/saran-r-b2b1a5275/)
 
 ---
 
